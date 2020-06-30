@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 7029f02a0f785c54f894e3d5f01b1c5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 681003657078623082
+    second: CasaTilemap7_0
+  - first:
+      213: -7928070346489153513
+    second: CasaTilemap7_1
+  - first:
+      213: 7376306222510160249
+    second: CasaTilemap7_2
+  - first:
+      213: -6836223293578328019
+    second: CasaTilemap7_3
+  - first:
+      213: 6448956216867062977
+    second: CasaTilemap7_4
+  - first:
+      213: 1264139980296986935
+    second: CasaTilemap7_5
+  - first:
+      213: -3327929098713620101
+    second: CasaTilemap7_6
+  - first:
+      213: 4989039506722562986
+    second: CasaTilemap7_7
+  - first:
+      213: 7877638523631650007
+    second: CasaTilemap7_8
+  - first:
+      213: 7882738205594872477
+    second: CasaTilemap7_9
+  - first:
+      213: 8218096903131865428
+    second: CasaTilemap7_10
+  - first:
+      213: -3598549050121344825
+    second: CasaTilemap7_11
+  - first:
+      213: 2960396433290849546
+    second: CasaTilemap7_12
+  - first:
+      213: -7848213463154995091
+    second: CasaTilemap7_13
+  - first:
+      213: -3643580306899834912
+    second: CasaTilemap7_14
+  - first:
+      213: 8298689370395881343
+    second: CasaTilemap7_15
+  - first:
+      213: -3063969009214144395
+    second: CasaTilemap7_16
+  - first:
+      213: 5601674673071526428
+    second: CasaTilemap7_17
+  - first:
+      213: 9025864431685876185
+    second: CasaTilemap7_18
+  - first:
+      213: -2395150031711000747
+    second: CasaTilemap7_19
+  - first:
+      213: 8379387247433453615
+    second: CasaTilemap7_20
+  - first:
+      213: -1346783793711568020
+    second: CasaTilemap7_21
+  - first:
+      213: 8971246237152153448
+    second: CasaTilemap7_22
+  - first:
+      213: -4805064574309241545
+    second: CasaTilemap7_23
+  - first:
+      213: -4283183493122333567
+    second: CasaTilemap7_24
+  - first:
+      213: -7020074312994455568
+    second: CasaTilemap7_25
+  - first:
+      213: 6271893955942114010
+    second: CasaTilemap7_26
+  - first:
+      213: -682654658410736093
+    second: CasaTilemap7_27
+  - first:
+      213: -1287758072680144793
+    second: CasaTilemap7_28
+  - first:
+      213: 6021383570030693712
+    second: CasaTilemap7_29
+  - first:
+      213: -37490892539433612
+    second: CasaTilemap7_30
+  - first:
+      213: -6353341670432548439
+    second: CasaTilemap7_31
+  - first:
+      213: -6568753637065982150
+    second: CasaTilemap7_32
+  - first:
+      213: 7375012277386108805
+    second: CasaTilemap7_33
+  - first:
+      213: 4651178834487734697
+    second: CasaTilemap7_34
+  - first:
+      213: -4863201227538338071
+    second: CasaTilemap7_35
+  - first:
+      213: -325609595452051435
+    second: CasaTilemap7_36
+  - first:
+      213: 1680784651246388020
+    second: CasaTilemap7_37
+  - first:
+      213: -2897660249954040902
+    second: CasaTilemap7_38
+  - first:
+      213: 4335599526709159695
+    second: CasaTilemap7_39
+  - first:
+      213: -2756648797508166446
+    second: CasaTilemap7_40
+  - first:
+      213: -1748461429830232338
+    second: CasaTilemap7_41
+  - first:
+      213: 7031215798221235145
+    second: CasaTilemap7_42
+  - first:
+      213: 5939581520206114791
+    second: CasaTilemap7_43
+  - first:
+      213: 3374896540008952089
+    second: CasaTilemap7_44
+  - first:
+      213: -9055863565673526634
+    second: CasaTilemap7_45
+  - first:
+      213: -6187766024053710481
+    second: CasaTilemap7_46
+  - first:
+      213: 921471577681455760
+    second: CasaTilemap7_47
+  - first:
+      213: 5922873526217811378
+    second: CasaTilemap7_48
+  - first:
+      213: 1878136879544457750
+    second: CasaTilemap7_49
+  - first:
+      213: -8970701454860043851
+    second: CasaTilemap7_50
+  - first:
+      213: 7254933030599953968
+    second: CasaTilemap7_51
+  - first:
+      213: -5915872703864698920
+    second: CasaTilemap7_52
+  - first:
+      213: -5536175972971763260
+    second: CasaTilemap7_53
+  - first:
+      213: -5915241577981094460
+    second: CasaTilemap7_54
+  - first:
+      213: 1428106892701831186
+    second: CasaTilemap7_55
+  - first:
+      213: -2057664876065190391
+    second: CasaTilemap7_56
+  - first:
+      213: -1691993503248193593
+    second: CasaTilemap7_57
+  - first:
+      213: -7501579156919549628
+    second: CasaTilemap7_58
+  - first:
+      213: -472011940022832678
+    second: CasaTilemap7_59
+  - first:
+      213: -8140655111996720275
+    second: CasaTilemap7_60
+  - first:
+      213: -285576089508053126
+    second: CasaTilemap7_61
+  - first:
+      213: -4081750623378631340
+    second: CasaTilemap7_62
+  - first:
+      213: -5779753783433658285
+    second: CasaTilemap7_63
+  - first:
+      213: 4758400386084575747
+    second: CasaTilemap7_64
+  - first:
+      213: -3308220751045119524
+    second: CasaTilemap7_65
+  - first:
+      213: -7034782336266308870
+    second: CasaTilemap7_66
+  - first:
+      213: 1016583351290219845
+    second: CasaTilemap7_67
+  - first:
+      213: -300533440752030032
+    second: CasaTilemap7_68
+  - first:
+      213: -3947593278593221735
+    second: CasaTilemap7_69
+  - first:
+      213: -6743702660868537128
+    second: CasaTilemap7_70
+  - first:
+      213: 4772125177183484037
+    second: CasaTilemap7_71
+  - first:
+      213: -181782968486621816
+    second: CasaTilemap7_72
+  - first:
+      213: 4940951650993300417
+    second: CasaTilemap7_73
+  - first:
+      213: -5421303087233313494
+    second: CasaTilemap7_74
+  - first:
+      213: 7308826006863076649
+    second: CasaTilemap7_75
+  - first:
+      213: -8047149371891730733
+    second: CasaTilemap7_76
+  - first:
+      213: -1951318401006211823
+    second: CasaTilemap7_77
+  - first:
+      213: 3509499094808718204
+    second: CasaTilemap7_78
+  - first:
+      213: -2906486265089347557
+    second: CasaTilemap7_79
+  - first:
+      213: -5935150549313555414
+    second: CasaTilemap7_80
+  - first:
+      213: 866647453788674223
+    second: CasaTilemap7_81
+  - first:
+      213: 4265648847257466549
+    second: CasaTilemap7_82
+  - first:
+      213: -2623765435277367301
+    second: CasaTilemap7_83
+  - first:
+      213: 8217373221984661665
+    second: CasaTilemap7_84
+  - first:
+      213: -8424826383543580963
+    second: CasaTilemap7_85
+  - first:
+      213: 8199465310899602725
+    second: CasaTilemap7_86
+  - first:
+      213: 760980448375773747
+    second: CasaTilemap7_87
+  - first:
+      213: 414330788440696749
+    second: CasaTilemap7_88
+  - first:
+      213: -3337583994084917529
+    second: CasaTilemap7_89
+  - first:
+      213: 5441561669180355303
+    second: CasaTilemap7_90
+  - first:
+      213: -4646945537536431918
+    second: CasaTilemap7_91
+  - first:
+      213: 2503211500150634559
+    second: CasaTilemap7_92
+  - first:
+      213: -8714080333742600777
+    second: CasaTilemap7_93
+  - first:
+      213: 658773659781536228
+    second: CasaTilemap7_94
+  - first:
+      213: 1624748106883110993
+    second: CasaTilemap7_95
+  - first:
+      213: -7865845231928383905
+    second: CasaTilemap7_96
+  - first:
+      213: 6555434449647721148
+    second: CasaTilemap7_97
+  - first:
+      213: -6344712752918237629
+    second: CasaTilemap7_98
+  - first:
+      213: 160747085690121791
+    second: CasaTilemap7_99
+  - first:
+      213: -3319003161923479487
+    second: CasaTilemap7_100
+  - first:
+      213: -2292758801534856069
+    second: CasaTilemap7_101
+  - first:
+      213: -8089098591927551276
+    second: CasaTilemap7_102
+  - first:
+      213: 5601616882992469936
+    second: CasaTilemap7_103
+  - first:
+      213: -1997084536189418771
+    second: CasaTilemap7_104
+  - first:
+      213: -5661233179090625511
+    second: CasaTilemap7_105
+  - first:
+      213: -359788462727658807
+    second: CasaTilemap7_106
+  - first:
+      213: -5848355239411091345
+    second: CasaTilemap7_107
+  - first:
+      213: 1634854451335116986
+    second: CasaTilemap7_108
+  - first:
+      213: -7298204161403070377
+    second: CasaTilemap7_109
+  - first:
+      213: 2878975869967362682
+    second: CasaTilemap7_110
+  - first:
+      213: -7902063309779908331
+    second: CasaTilemap7_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CasaTilemap7_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9387921ef424d70800000000000000
+      internalID: 9025864431685876185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557a9187cb7b2ced0800000000000000
+      internalID: -2395150031711000747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2095be3e40994470800000000000000
+      internalID: 8379387247433453615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba19276434f4de0800000000000000
+      internalID: -1346783793711568020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f8306cbe4408c70800000000000000
+      internalID: 8971246237152153448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f70adae5917d4a0800000000000000
+      internalID: -6568753637065982150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f5ebf779e495660800000000000000
+      internalID: 7375012277386108805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2c526ce1ad6250800000000000000
+      internalID: 5939581520206114791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 236
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911bdeca58a06de20800000000000000
+      internalID: 3374896540008952089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d0d70027d8eda0800000000000000
+      internalID: -5915241577981094460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21097c807a7a1d310800000000000000
+      internalID: 1428106892701831186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1316f21c6d612d0800000000000000
+      internalID: -3308220751045119524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af277aeacbe6f5e90800000000000000
+      internalID: -7034782336266308870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dca320c21ab1e00800000000000000
+      internalID: 1016583351290219845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be69dc8d6a44dbf0800000000000000
+      internalID: -300533440752030032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap7_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b3bbf04d45739c0800000000000000
+      internalID: -3947593278593221735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
