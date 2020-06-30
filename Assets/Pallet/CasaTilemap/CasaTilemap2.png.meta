@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 6aa259cd6657a4b4294ae942e6fbc4ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4567368848806267021
+    second: CasaTilemap2_0
+  - first:
+      213: -9081111811472017842
+    second: CasaTilemap2_1
+  - first:
+      213: 2968644405526228043
+    second: CasaTilemap2_2
+  - first:
+      213: -1704301081604761509
+    second: CasaTilemap2_3
+  - first:
+      213: 8102329828823370663
+    second: CasaTilemap2_4
+  - first:
+      213: 737685626711854871
+    second: CasaTilemap2_5
+  - first:
+      213: -5649083560116513271
+    second: CasaTilemap2_6
+  - first:
+      213: -1225886485822047872
+    second: CasaTilemap2_7
+  - first:
+      213: 7333038761470054597
+    second: CasaTilemap2_8
+  - first:
+      213: 1178993513856861025
+    second: CasaTilemap2_9
+  - first:
+      213: -7385404102226556673
+    second: CasaTilemap2_10
+  - first:
+      213: 6032431191996430259
+    second: CasaTilemap2_11
+  - first:
+      213: -6034959708467766540
+    second: CasaTilemap2_12
+  - first:
+      213: -2856650767009770251
+    second: CasaTilemap2_13
+  - first:
+      213: -9113494443697035400
+    second: CasaTilemap2_14
+  - first:
+      213: -2196645820225350018
+    second: CasaTilemap2_15
+  - first:
+      213: 2501075694836265234
+    second: CasaTilemap2_16
+  - first:
+      213: -2931517317817054201
+    second: CasaTilemap2_17
+  - first:
+      213: -2656689765902179785
+    second: CasaTilemap2_18
+  - first:
+      213: -3537396861915371648
+    second: CasaTilemap2_19
+  - first:
+      213: -5707731545754882532
+    second: CasaTilemap2_20
+  - first:
+      213: 1084675022540619267
+    second: CasaTilemap2_21
+  - first:
+      213: 2956906770745502170
+    second: CasaTilemap2_22
+  - first:
+      213: 2596813272765675493
+    second: CasaTilemap2_23
+  - first:
+      213: 1171593331478449667
+    second: CasaTilemap2_24
+  - first:
+      213: 2675596999132493695
+    second: CasaTilemap2_25
+  - first:
+      213: -5906540299861906584
+    second: CasaTilemap2_26
+  - first:
+      213: -6791487701476654460
+    second: CasaTilemap2_27
+  - first:
+      213: -7547577865250721303
+    second: CasaTilemap2_28
+  - first:
+      213: -4945105208165973596
+    second: CasaTilemap2_29
+  - first:
+      213: -4918416268241592574
+    second: CasaTilemap2_30
+  - first:
+      213: 8814242691763006433
+    second: CasaTilemap2_31
+  - first:
+      213: -4282791254578622669
+    second: CasaTilemap2_32
+  - first:
+      213: -722705936949564870
+    second: CasaTilemap2_33
+  - first:
+      213: 3254947234067338238
+    second: CasaTilemap2_34
+  - first:
+      213: -2560950112204873622
+    second: CasaTilemap2_35
+  - first:
+      213: 1916591982554869242
+    second: CasaTilemap2_36
+  - first:
+      213: -5787816739790675263
+    second: CasaTilemap2_37
+  - first:
+      213: 6577874125358430065
+    second: CasaTilemap2_38
+  - first:
+      213: -3554078414714441135
+    second: CasaTilemap2_39
+  - first:
+      213: 2683305283901150906
+    second: CasaTilemap2_40
+  - first:
+      213: -3217451594810504935
+    second: CasaTilemap2_41
+  - first:
+      213: 3956557875643007397
+    second: CasaTilemap2_42
+  - first:
+      213: -6361483847305143476
+    second: CasaTilemap2_43
+  - first:
+      213: -8652165188614345594
+    second: CasaTilemap2_44
+  - first:
+      213: -3079399195569612782
+    second: CasaTilemap2_45
+  - first:
+      213: -5149027646338925857
+    second: CasaTilemap2_46
+  - first:
+      213: 2855196783655026552
+    second: CasaTilemap2_47
+  - first:
+      213: 2183392136322315160
+    second: CasaTilemap2_48
+  - first:
+      213: -5928303118072441054
+    second: CasaTilemap2_49
+  - first:
+      213: 4732574387686754077
+    second: CasaTilemap2_50
+  - first:
+      213: 1328497793691660685
+    second: CasaTilemap2_51
+  - first:
+      213: -2723324626231189287
+    second: CasaTilemap2_52
+  - first:
+      213: -174189569141656101
+    second: CasaTilemap2_53
+  - first:
+      213: -2442746250276135508
+    second: CasaTilemap2_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CasaTilemap2_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c9f6dc6488e630800000000000000
+      internalID: 3956557875643007397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap2_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bddfc352877b7a0800000000000000
+      internalID: -6361483847305143476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap2_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f7895e852bf9720800000000000000
+      internalID: 2855196783655026552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CasaTilemap2_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937fd27497fc4e10800000000000000
+      internalID: 2183392136322315160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
