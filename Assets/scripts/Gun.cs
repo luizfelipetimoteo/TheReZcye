@@ -53,7 +53,7 @@ public class Gun : MonoBehaviour
     }
     void ReloadSystem()
     {
-        if (Input.GetKeyDown(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.R) && Player.Bullets < 10)
         {
             PodeAtirar = false;
             ReloadTxt.text = "Reloading...";
